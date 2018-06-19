@@ -1,2 +1,2 @@
-Vinay Hegde
+Vinay I. Hegde
 Xia Hua
