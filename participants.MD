@@ -1,3 +1,3 @@
-Vinay Hegde
-Sean Griesemer
 Sean Griesemer II
+Vinay I. Hegde
+Xia Hua
