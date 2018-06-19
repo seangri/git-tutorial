@@ -4,7 +4,6 @@ Sample git repository to play around with during the tutorial.
 
 
 ## TODO: ##
----
 
 - Create an account on Github
 - Install git on the local computers, git config
